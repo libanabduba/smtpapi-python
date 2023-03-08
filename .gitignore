@@ -1,0 +1,15 @@
+*.egg
+*.egg-info
+*.pyc
+.coverage
+.env
+.Python
+bin/
+build
+dist
+eggs
+include/
+lib/
+sdist
+smtpapi/VERSION.txt
+venv/
